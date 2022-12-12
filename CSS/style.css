@@ -1,7 +1,7 @@
 #nav-link {
     font-style: italic;
-    font-size: large;
-    color: brown !important;
+    font-size: small;
+    color: yellowgreen !important;
 }
 
 #jumbotron {
@@ -11,4 +11,9 @@ background-color: blue !important;
 
 .h1 {
     font-style: italic;
+}
+
+.list-group {
+background-color: blue! important
+
 }

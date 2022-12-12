@@ -9,8 +9,8 @@ I am creating a portfolio to showcase my skills and talent. The porfolio shows i
 ## Installation
 
 The project is created in VScode by using CSS, html and Javascript. It has been deployed using Github. I have included the webpage for easy access.git
-https://github.com/AbbyIT/Portfolio   
-https://abbyit.github.io/Portfolio/
+https://github.com/AbbyIT/Portfolio-Redesign  
+https://abbyit.github.io/Portfolio-Redesign/
 
 ## Usage 
 
