@@ -5,7 +5,7 @@
 }
 
 #jumbotron {
-background-color: blue !important;
+    background-color: blue !important;
 
 }
 
@@ -14,6 +14,18 @@ background-color: blue !important;
 }
 
 .list-group {
-background-color: blue! important
-
+    background-color: blue! important
 }
+
+/* contact me page */
+#Contact-Me {
+    display: flex;
+    /* flex-wrap: nowrap; */
+    flex-direction: row;
+    /* width: 70%;  */
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: gray; 
+    font-size: small;
+    text-decoration: underline; 
+  }
