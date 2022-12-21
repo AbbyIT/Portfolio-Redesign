@@ -17,6 +17,12 @@
     background-color: blue! important
 }
 
+
+
+ p {
+
+    color:brown
+ }
 /* contact me page */
 #Contact-Me {
     display: flex;
