@@ -4,10 +4,10 @@
     color: yellowgreen !important;
 }
 
-#jumbotron {
-    background-color: blue !important;
+/* .jumbotron { */
+    /* background-color: rgb(91, 91, 179) !important; */
 
-}
+/* } */
 
 .h1 {
     font-style: italic;
@@ -22,10 +22,13 @@
     display: flex;
     /* flex-wrap: nowrap; */
     flex-direction: row;
-    /* width: 70%;  */
+    width: 50%; 
     align-items: center;
     justify-content:space-evenly;
     background-color: gray; 
     font-size: small;
     text-decoration: underline; 
+    /* absolute positioning */
+    position: absolute;
+    right: 0;
   }
