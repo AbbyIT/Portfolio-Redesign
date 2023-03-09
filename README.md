@@ -15,6 +15,8 @@ The project is created in VScode by using CSS, html and Javascript. It has been 
 
 Screenshots
 
+Please see screenshots below: 
+
 Portfolio-Redesign/assets/images (github)
 
 ## Usage 
