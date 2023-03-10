@@ -17,7 +17,7 @@ Screenshots
 
 Please see screenshots below: 
 
-Portfolio-Redesign/assets/images (github)
+Portfolio-Redesign/assets/Images (github)
 
 ## Usage 
 
