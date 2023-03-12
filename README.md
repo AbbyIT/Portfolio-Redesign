@@ -24,9 +24,10 @@ Portfolio-Redesign/assets/Images (github)
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/117487886/222940160-beaa9f3c-e176-40eb-9b54-d569a0a5e805.png)
-<img width="949" alt="image" src="https://user-images.githubusercontent.com/117487886/222940183-edc5d477-e5ed-44a4-9551-40c0d48bf882.png">
-![image](https://user-images.githubusercontent.com/117487886/222940139-4d0a323d-aa1c-4690-8c38-6c239b73857b.png)
+![Screenshot 2023-03-12 142105](https://user-images.githubusercontent.com/117487886/224550855-fd47ee49-044f-42ae-9d8e-574cd6540091.jpg)
+![Screenshot 2023-03-12 142125](https://user-images.githubusercontent.com/117487886/224550859-3d5417d2-3f89-44b9-bfeb-5902e16f0416.jpg)
+![Screenshot 2023-03-12 142145](https://user-images.githubusercontent.com/117487886/224550860-ca005d21-c992-48e9-91db-31140ef30239.jpg)
+![Screenshot 2023-03-12 141859](https://user-images.githubusercontent.com/117487886/224550861-43e5f0c4-04ff-45cc-a40d-faa0e281ae24.jpg)
 
 
 
