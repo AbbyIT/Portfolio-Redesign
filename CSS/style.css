@@ -2,7 +2,7 @@ body {
     /* margin: 0; */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
-    background-color:rgb(240, 208, 208);
+    background-color:rgb(208, 214, 240);
   
   }
      
@@ -20,7 +20,7 @@ body {
   /* Displays navigationn bar information */
    .navbar {
     margin: 0px;
-    background-color: rgb(240, 208, 208);;
+    background-color: rgb(208, 214, 240);
     color:rgb(204, 163, 241);
     font-size: 25px;  
     
@@ -43,7 +43,7 @@ body {
   
   .first-project{
   
-    background-color: rgb(240, 208, 208);
+    background-color: rgb(208, 214, 240);
     color: black;
     font-size:25px;
     margin: 0;
@@ -52,7 +52,7 @@ body {
   
   .card {
   
-    background-color: rgb(240, 208, 208);
+    background-color: rgb(208, 214, 240)
   
   }
   /* contact me page */
@@ -64,7 +64,7 @@ body {
       width: 50%; 
       align-items: right;
       justify-content:space-evenly;
-      background-color: rgb(240, 208, 208); 
+      background-color: rgb(208, 214, 240); 
       font-size: 20px;
       text-decoration: underline; 
       /* absolute positioning */
@@ -111,7 +111,7 @@ body {
   
   .my-story{
   width: 50%;
-  background-color: rgb(240, 208, 208);;
+  background-color: rgb(208, 214, 240);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 25px;
   
